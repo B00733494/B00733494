@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1><b>Development of Machine Learning-based Web Application Firewall and Intrusion Prevention System</h1></b></br>
 
-<!--
-**B00733494/B00733494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project aims to develop a highly robust and intelligent Web Application Firewall (WAF) and Intrusion Prevention System (IPS) using machine learning techniques. The system is designed to protect web applications from malicious traffic, prevent unauthorized access, and secure sensitive data.</br>
 
-Here are some ideas to get you started:
+<b>Features</b></br>
+Machine Learning-based detection of malicious traffic.</br>
+Intrusion Prevention System to block unauthorized access.</br>
+Real-time monitoring and analysis of web traffic.</br>
+Customizable security rules.</br>
+Extensible architecture for integrating additional security modules.</br>
+Detailed logging and reporting.</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Requirements</b></br>
+Python 3.8 or higher</br>
+Pandas</br>
+Pycaret</br>
+
+<b>Installation</b>
+Clone the repository:</br>
+git clone https://github.com/B00733494/ml-waf-ips.git</br>
+
+<b>Usage</b></br>
+Start the WAF and IPS system:</br>
+python Mine.py</br>
+
+<b>Contribution</b></br>
+We welcome contributions from the community. Please submit your contributions via pull requests.</br>
+
+Fork the repository.</br>
+Create a new branch for your feature or bugfix.</br>
+Commit your changes to the new branch.</br>
+Push the branch to your fork.</br>
+Submit a pull request to the main repository.</br>
